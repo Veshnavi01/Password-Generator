@@ -82,14 +82,7 @@ Download or clone the repository and open **index.html** in your preferred web b
 
 # 📸 Project Preview
 
-You can add screenshots of your project here.
-
-Example:
-
-```text
-assets/
-    screenshot.png
-```
+<img width="640" height="278" alt="image" src="https://github.com/user-attachments/assets/846a6118-260d-4b09-a609-f2c28de6f2d8" />
 
 ---
 
